@@ -7,4 +7,4 @@ The data mining and cleaning steps are available in the "Canvas Dataset Cleaning
 
 "Sentiment Analysis" displays the code for conducting the sentiment analysis studies. The NLP toolkit TextBlob was used for determining the sentiment of the datasets. The results of the study were consistent across all 3 datasets with the most common sentiment determined to be Neutral and Positive.
 
-image
+
